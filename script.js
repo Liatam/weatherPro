@@ -20,6 +20,6 @@ const getWeather = async (cityName, cardId) => {
 
 // Example usage: Fetch weather data for different cities and create cards
 getWeather("london", "card1");
-getWeather("paris", "card2");
+getWeather("alaska", "card2");
 getWeather("new york", "card3");
-getWeather("tokyo", "card4");
+getWeather("eilat", "card4");
